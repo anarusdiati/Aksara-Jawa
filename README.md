@@ -1,6 +1,5 @@
 # Aksara-Jawa
-Tugas STBI </br>
- </br>
+
 Dataset tulisan dapat diunduh di: </br>
 https://docs.google.com/spreadsheets/d/1QonddxFSpJjHX5SawXdCulpeJc7ou1lGIyl3EPJ-j-o/edit#gid=0 </br>
  </br>
