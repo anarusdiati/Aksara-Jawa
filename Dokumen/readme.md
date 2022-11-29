@@ -1,4 +1,4 @@
-Folder ini bBerisi dokumen tugas 1, 2, 3, 4, 5 </br> </br>
+Folder ini berisi dokumen tugas 1, 2, 3, 4, 5 </br> </br>
 
 Tugas 1: Spesifikasi STKI </br>
 Tugas 2: Analisis STKI </br>
